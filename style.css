@@ -3,6 +3,9 @@ h1{
     font-size: 2em;
 }
 
+p{
+    font-size: 3em;
+}
 #span_p{
     color: green;
     font-style: italic;
